@@ -1,4 +1,4 @@
-# Book a Room Template#
+# Book a Room Template
 
 The Records Disposition Identifier Mobile App is a Power Apps canvas application that allows users to identify the proper records schedule, retention, and disposition of government records.
 
