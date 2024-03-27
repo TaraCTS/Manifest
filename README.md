@@ -1,10 +1,10 @@
 # Manifest
 
-Greetings and welcome to the Manifest Repository. This hub is dedicated to presenting instructional videos, exemplary solutions, and pertinent materials designed for operation within the Power Platform and Dynamics 365 across different US government cloud environments.
+Access the Manifest Repository for concise Power Platform and Dynamics 365 guidance, solutions, and resources for US government cloud environments.
 
 ## Videos
 
-Below is a listing of videos available. The videos provided are solely for illustrative purposes, offering a swift overview of the diverse functionalities available within Microsoft's Power Platform and Dynamics suites.  
+View the video list for quick insights into Power Platform and Dynamics functionalities.
 
 | Videos
 * [Dynamics 365 Customer Service for GCC: Top 5 settings to optimize your Dynamics CS Solution](https://youtu.be/I6JPuP_NBnM)
