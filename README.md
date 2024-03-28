@@ -15,4 +15,6 @@ View the video list for quick insights into Power Platform and Dynamics function
 
 View apps avialble to download and import into your own environment.
 | Apps
-*[Records Disposition Identifier Mobile App] (https://github.com/TaraCTS/Manifest/tree/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App)
+
+* [Records Disposition Identifier Mobile App](https://github.com/TaraCTS/Manifest/tree/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App)
+  
