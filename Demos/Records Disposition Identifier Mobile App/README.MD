@@ -14,7 +14,8 @@ Key Steps for this app:
 1. Download the CSV
 2. Add the CSV to your SPO site as a SPO List
 3. Download the app
-4. Connect the app to the SPO list you created i.e. use the SPO List as your data source
+4. Import the app to your environment
+5. Connect the app to the SPO list you created i.e. use the SPO List as your data source
 
 To access a CSV of the entire GRS Records Schedule, download the raw File here [GRS Records Schedules.iqy] (https://github.com/TaraCTS/Manifest/blob/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App/GRS%20Records%20Schedules.iqy)
 
