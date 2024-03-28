@@ -2,6 +2,10 @@
 
 The Records Disposition Identifier Mobile App is a Power Apps canvas application that allows users to identify the proper records schedule, retention, and disposition of government records.
 
+![App Image](https://github.com/TaraCTS/Images-and-Logos/blob/main/MainScreen.png)
+![App Image](https://github.com/TaraCTS/Images-and-Logos/blob/main/DetailsScreen.png)
+![App Image](https://github.com/TaraCTS/Images-and-Logos/blob/main/EditScreen.png)
+
 This app enages the following:
 1. SharePoint Online
 2. Power Apps
@@ -10,7 +14,7 @@ Key Steps for this app:
 1. Download the CSV
 2. Add the CSV to your SPO site as a SPO List
 3. Download the app
-4. connect the app to the SPO list you created i.e. use the SPO List as yoyr data source
+4. Connect the app to the SPO list you created i.e. use the SPO List as your data source
 
 To access a CSV of the entire GRS Records Schedule, download the raw File here [GRS Records Schedules.iqy] (https://github.com/TaraCTS/Manifest/blob/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App/GRS%20Records%20Schedules.iqy)
 
