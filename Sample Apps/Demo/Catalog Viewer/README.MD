@@ -20,7 +20,7 @@ Key Steps for this app:
 5. Import the app to your environment
 6. Connect the app to the SPO site created i.e. use the SPO Site's Documents repository as your data source
 
-To access the Sample DOcuments, download the raw File here [GRS Records Schedules.iqy] (https://github.com/TaraCTS/Manifest/blob/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App/GRS%20Records%20Schedules.iqy)
+To access the Sample Documents, download the raw File here [GRS Records Schedules.iqy] (https://github.com/TaraCTS/Manifest/blob/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App/GRS%20Records%20Schedules.iqy)
 
 To import this template app and template flow, download the Catalog Viewer App file: [Catalog Viewer App] (https://github.com/TaraCTS/Manifest/blob/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App/RecordsDispositionIdentifierMobileApp_20240327191404.zip) and the Render PDF Flow file: [Render PDF Flow] (https://github.com/TaraCTS/Manifest/blob/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App/RecordsDispositionIdentifierMobileApp_20240327191404.zip)
 
