@@ -19,3 +19,4 @@ View apps avialble to download and import into your own environment.
 
 * [Records Disposition Identifier Mobile App](https://github.com/TaraCTS/Manifest/tree/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App)
   
+* [Catalog Viewer App](https://github.com/TaraCTS/Manifest/tree/main/Sample%20Apps/Demo/Catalog%20Viewer)
