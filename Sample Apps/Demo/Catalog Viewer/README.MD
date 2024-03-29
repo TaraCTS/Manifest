@@ -29,4 +29,4 @@ To import this template app and template flow, download the Catalog Viewer App f
 or download the Catalog Viewer App Solution: 
 *[Catalog Viewer App Solution] (https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Apps/CatalogViewerSolution.zip)
 
-Then follow the instructions for * [importing a canvas app package](https://www.docs.microsoft.com/en-us/powerapps/maker/canvas-apps/export-import-app#importing-a-canvas-app-package)
+Then follow the instructions for *[importing a canvas app package](https://www.docs.microsoft.com/en-us/powerapps/maker/canvas-apps/export-import-app#importing-a-canvas-app-package)
