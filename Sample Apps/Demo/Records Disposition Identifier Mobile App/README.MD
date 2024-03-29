@@ -17,8 +17,10 @@ Key Steps for this app:
 4. Import the app to your environment
 5. Connect the app to the SPO list you created i.e. use the SPO List as your data source
 
-To access an .xlxs of the entire GRS Records Schedule, download the raw File here [GRS Records Schedules] (https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Records%20Disposition%20Identifier%20Mobile%20App/GRS%20Records%20Schedules.xlsx)
+| Instructions
 
-To import this template app, download the Records Disposition Identifier Mobile App file: [Records Disposition Identifier Mobile App] (https://github.com/TaraCTS/Manifest/blob/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App/RecordsDispositionIdentifierMobileApp_20240327191404.zip) 
+* To access an .xlxs of the entire GRS Records Schedule, download the raw File here [GRS Records Schedules] (https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Records%20Disposition%20Identifier%20Mobile%20App/GRS%20Records%20Schedules.xlsx)
 
-Then follow the instructions for [importing a canvas app package](https://www.docs.microsoft.com/en-us/powerapps/maker/canvas-apps/export-import-app#importing-a-canvas-app-package)
+* To import this template app, download the Records Disposition Identifier Mobile App file: [Records Disposition Identifier Mobile App] (https://github.com/TaraCTS/Manifest/blob/main/Demos/Records%20Disposition%20Identifier%20Mobile%20App/RecordsDispositionIdentifierMobileApp_20240327191404.zip) 
+
+* Then follow the instructions for [importing a canvas app package](https://www.docs.microsoft.com/en-us/powerapps/maker/canvas-apps/export-import-app#importing-a-canvas-app-package)
