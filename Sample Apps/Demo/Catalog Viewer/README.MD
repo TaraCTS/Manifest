@@ -3,7 +3,7 @@
 The Catalog Viewer App is a Power Apps canvas application that allows users to view word, PDF, and PowerPoint documents all within the PDF Viewer control in Power Apps. This app does this through an automated flow embedded within the Power App.
 
 ![App Image](https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Images/PDFView_Resized.png)
-![App Image](https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Images/PPTView_Resized.png)
+
 ![App Image](https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Images/WordView_Resized.png)
 
 This app enages the following:
