@@ -20,20 +20,15 @@ Key Steps for this app:
 5. Import the app to your environment
 6. Connect the app to the SPO site created i.e. use the SPO Site's Documents repository as your data source
 
-| Apps
+| Instructions
+
+To access the Sample Documents, download the raw File here:
 
 * [Sample Documents](https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Sample%20Documents.zip)
-  
+
+To import this template app and template flow, download the Catalog Viewer App file:
+
 * [Catalog Viewer App](https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Apps/CatalogViewerApp.zip)
-
-
-
-To access the Sample Documents, download the raw File here: 
-[Sample Documents] (https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Sample%20Documents.zip)
-
-To import this template app and template flow, download the Catalog Viewer App file: 
-
-* [Catalog Viewer App] (https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Apps/CatalogViewerApp.zip) 
 
 and then Render PDF Flow file: 
 
