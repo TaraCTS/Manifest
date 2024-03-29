@@ -25,7 +25,9 @@ To access the Sample Documents, download the raw File here:
 
 To import this template app and template flow, download the Catalog Viewer App file: 
 
-[Catalog Viewer App] (https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Apps/CatalogViewerApp.zip) and the Render PDF Flow file: 
+* [Catalog Viewer App] (https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Apps/CatalogViewerApp.zip) 
+
+and then Render PDF Flow file: 
 
 [Render PDF Flow] (https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Apps/RenderPDFFlow.zip)
 
