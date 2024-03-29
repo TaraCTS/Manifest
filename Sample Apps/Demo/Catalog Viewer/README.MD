@@ -2,9 +2,9 @@
 
 The Catalog Viewer App is a Power Apps canvas application that allows users to view word, PDF, and PowerPoint documents all within the PDF Viewer control in Power Apps. This app does this through an automated flow embedded within the Power App.
 
-![App Image](https://github.com/TaraCTS/Images-and-Logos/blob/main/MainScreen_Resized_Resized.png)
-![App Image](https://github.com/TaraCTS/Images-and-Logos/blob/main/DetailsScreen_Resized.png)
-![App Image](https://github.com/TaraCTS/Images-and-Logos/blob/main/EditScreen_Resized.png)
+![App Image](https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Images/PDFView_Resized.png)
+![App Image](https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Images/PPTView_Resized.png)
+![App Image](https://github.com/TaraCTS/Manifest/blob/main/Sample%20Apps/Demo/Catalog%20Viewer/Images/WordView_Resized.png)
 
 This app enages the following:
 1. SharePoint Online
@@ -13,7 +13,7 @@ This app enages the following:
 
 Key Steps for this app:
 1. Download the Sample Documents
-2. Add the Sample DOcuments to your SPO site under the Documents section
+2. Add the Sample Documents to your SPO site under the Documents section
 3. Download the app
 4. Download the flow
 * You may also download the entire solution (contains both the app and the flow) and import this into your enviornment vs. importing the app and flow separately
